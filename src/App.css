@@ -1,0 +1,60 @@
+
+body {
+  background: rgb(70, 203, 255);
+}
+
+.container {
+  background: rgb(41, 33, 33);
+      width: 8vw;
+      margin: 10em auto;
+      border-radius: 15px;
+      padding:  10px;
+      color: white;
+      border: 3px solid rgb(36, 110, 194);
+      text-align: center;
+      display: inline-table;   
+      margin-left: 200px;
+      height: 10px;
+}
+
+
+
+input {margin: auto;
+  padding: 5px;
+  border-radius: 10px;
+  border: 3px solid rgb(36, 110, 194);
+  margin-top: 50px;
+  margin-left: 20px ;
+  height: 25px;
+  
+
+}
+button{
+  margin: auto;
+  padding: auto;
+  color: white;
+  border-style: solid;
+  margin-top: 20px;
+  margin-left: 115px ;
+  height: 30px;
+  background-color: blue;
+
+
+
+}
+select{
+  margin: auto;
+  padding: auto;
+  color: white;
+  border-style: solid;
+  margin-top: 50px;
+  margin-left: 50px ;
+
+
+}
+ul,li{
+  padding: 10px;
+  margin: 1px;
+}
+
+
